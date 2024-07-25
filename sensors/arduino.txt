@@ -1,0 +1,11 @@
+2 smoke sensors
+1 temperature and humiblity sensor
+  sending data to lcd monitor 
+2 servo motors to open garge door and house door
+2 Ceiling fan with 3 speed control
+soler cell in the top of house to give power for house 
+controling of light from phone 
+relay board for give power from ac sourse
+all of it controled via bluetooth from android phone
+with a mega control chip 
+
